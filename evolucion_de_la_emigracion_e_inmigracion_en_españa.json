@@ -1,6 +1,5 @@
-﻿{ "DatosS": [    {"Agno": 2008,
-                            "Periodo": "Semestre 1",
-                            "Parametro": "2008",
+﻿{ "DatosS":[
+	{"Agno": 2008,"Periodo": "Semestre 1","Parametro": "2008",
                             "Valor": 134650,
                             "Estado": "Definitivo",
                             "Notas": null
@@ -229,8 +228,8 @@
                             "Estado": "Provisional",
                             "Notas": null
                         }
-                    ],
-                "DatosE": [
+                ],
+                "DatosE":[
                         {
                             "Agno": 2008,
                             "Periodo": "Semestre 1",

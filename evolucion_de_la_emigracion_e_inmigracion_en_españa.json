@@ -1,24 +1,4 @@
-﻿{
-    "Url": "www.epdata.es/evolucion-emigracion-inmigracion-espana/850abf9a-b197-4481-b9a4-351d931d3247",
-    "Respuesta": {
-        "Id": "850abf9a-b197-4481-b9a4-351d931d3247",
-        "Url": "www.epdata.es/evolucion-emigracion-inmigracion-espana/850abf9a-b197-4481-b9a4-351d931d3247",
-        "Titulo": "Evolución de la emigración e inmigración en España",
-        "Subtitulo": "De cualquier nacionalidad",
-        "Datos": {
-            "Metricas": [
-                {
-                    "Id": 0,
-                    "Nombre": "Emigración a nivel semestral - Número de personas para total como sexo, total como grupo quinquenal de edad, Total como país de nacionalidad, Total como país de nacimiento, Total como país de destino y España como país de origen",
-                    "SonDatosNumericos": true,
-                    "Fuente": "INE",
-                    "Clasificacion": null,
-                    "Unidad": "Número de personas",
-                    "Escala": "Unidades",
-                    "EscalaFactorPotencia10": 0,
-                    "Datos": [
-                        {
-                            "Agno": 2008,
+﻿{ "DatosS": [    {"Agno": 2008,
                             "Periodo": "Semestre 1",
                             "Parametro": "2008",
                             "Valor": 134650,
@@ -250,17 +230,7 @@
                             "Notas": null
                         }
                     ]
-                },
-                {
-                    "Id": 1,
-                    "Nombre": "Inmigración a nivel semestral - Número de personas para total como sexo, total como grupo quinquenal de edad, Total como país de nacionalidad, Total como país de nacimiento, España como país de destino y Total como país de origen",
-                    "SonDatosNumericos": true,
-                    "Fuente": "INE",
-                    "Clasificacion": null,
-                    "Unidad": "Número de personas",
-                    "Escala": "Unidades",
-                    "EscalaFactorPotencia10": 0,
-                    "Datos": [
+                "DatosE": [
                         {
                             "Agno": 2008,
                             "Periodo": "Semestre 1",
@@ -493,9 +463,4 @@
                             "Estado": "Provisional",
                             "Notas": null
                         }
-                    ]
-                }
-            ]
-        }
-    }
-}
+                   }
